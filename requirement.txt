@@ -1,0 +1,4 @@
+python-telegram-bot==13.7
+requests-html==0.10.0
+tkcalendar==1.6.1
+
